@@ -66,11 +66,9 @@ onMounted (() => {
       // 图形选中时边框与控件颜色
       theme: '#396FFF',
       // 只展示不可操作(删除、变形、旋转)
-      readOnly: false,
+      readOnly: true,
       // 画布是否可移动(仅在readOnly为true时有效)
       move: true,
-      // 画布是否可缩放(仅在readOnly为true时有效)
-      scale: true,
     }
   
   // 创建 PopupControl
