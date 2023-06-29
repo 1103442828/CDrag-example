@@ -2,12 +2,12 @@ lockfileVersion: 5.4
 
 specifiers:
   '@vitejs/plugin-vue': ^4.1.0
-  cdrag: ^0.0.4
+  cdrag: ^0.0.5
   vite: ^4.3.9
   vue: ^3.2.47
 
 dependencies:
-  cdrag: 0.0.4
+  cdrag: 0.0.5
   vue: registry.npmmirror.com/vue/3.3.4
 
 devDependencies:
@@ -214,8 +214,8 @@ packages:
     dev: true
     optional: true
 
-  /cdrag/0.0.4:
-    resolution: {integrity: sha512-K5p+W3Ap+3I6dXytysE1v2ZXb0vOMOuR/NDBvWmNdunok/mrj3ri2O5TCQ4h8vrBqu+TyTOYC/z/ZbvGtpcbpg==}
+  /cdrag/0.0.5:
+    resolution: {integrity: sha512-VNdVI0Oi8PXJ+e4uJIMG33UCOG0+5V6M9GE7eduT0ncBJZEMZ8z48S7VZHKeb3xgc59lFOsul1GDT7ekO3H4zQ==}
     dev: false
 
   /fsevents/2.3.2:

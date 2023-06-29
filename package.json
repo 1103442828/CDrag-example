@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "cdrag": "^0.0.4",
+    "cdrag": "^0.0.5",
     "vue": "^3.2.47"
   },
   "devDependencies": {
