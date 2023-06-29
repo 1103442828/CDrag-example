@@ -2,10 +2,12 @@ lockfileVersion: 5.4
 
 specifiers:
   '@vitejs/plugin-vue': ^4.1.0
+  cdrag: ^0.0.1
   vite: ^4.3.9
   vue: ^3.2.47
 
 dependencies:
+  cdrag: registry.npmjs.org/cdrag/0.0.1
   vue: registry.npmmirror.com/vue/3.3.4
 
 devDependencies:
@@ -13,6 +15,12 @@ devDependencies:
   vite: registry.npmmirror.com/vite/4.3.9
 
 packages:
+
+  registry.npmjs.org/cdrag/0.0.1:
+    resolution: {integrity: sha512-LUvovwrsCHeUgbnn6xORG0p0MGifufduQqcaDguBxdxMOJsPKDJeHLdM9QrlyEgHJTt3+CoHllmSX3sQU0z20w==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmjs.org/cdrag/-/cdrag-0.0.1.tgz}
+    name: cdrag
+    version: 0.0.1
+    dev: false
 
   registry.npmmirror.com/@babel/helper-string-parser/7.22.5:
     resolution: {integrity: sha512-mM4COjgZox8U+JcXQwPijIZLElkgEpO5rsERVDJTc2qfCDfERyob6k5WegS14SX18IIjv+XD+GrqNumY5JRCDw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@babel/helper-string-parser/-/helper-string-parser-7.22.5.tgz}
